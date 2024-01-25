@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Orecchini Innamorata",
+    "picture": "https://chiarajewels.com/cdn/shop/products/E827S.jpg?v=1645888153&width=2000.jpg",
+    "description": "Preziosi orecchini costituiti da cerchi con brillanti e un cuore rosa come dettaglio decorativo, realizzato in argento sterling (S925)",
+    "price": 20000000000000000000
+    },
+  {
+    "id": 1,
+    "name": "Pendente Swarovski Iconic Swan",
+    "picture": "https://asset.swarovski.com/images/$size_1450/t_swa103/b_rgb:ffffff,c_scale,dpr_2.0,f_auto,w_675/5512095_png/pendente-swarovski-iconic-swan--cigno--blu--placcato-rodio-swarovski-5512095.png",
+    "description": "l nostro motivo Iconic Swan, il simbolo per eccellenza di Swarovski, cattura il centro della scena in questo straordinario pendente.",
+    "price": 40000000000000000000
+  },
+  {
+    "id": 2,
+    "name": "Collana Punto Luce Silver Rainbow",
+    "picture": "https://www.stroilioro.com/dw/image/v2/BCQS_PRD/on/demandware.static/-/Sites-THOM_CATALOG/default/dw707ea52e/images/c1667702-master.jpg?sw=1024&sh=1024.jpg",
+    "description": "Collana Punto Luce Silver Rainbow Argento Rosa 925/1000 Maglia Veneziana Cubic Zirconia Rosa 42 + 3 cm 1667702 ",
+    "price": 40000000000000000000
+  },
+  {
+    "id": 3,
+    "name": "Collana Cuore Arcobaleno ",
+    "picture": "https://adelemoon.com/wp-content/uploads/6431a5491f0f9c4cafbf8d4cbcf48ffd.png",
+    "description": "Collana Cuore Arcobaleno, da donna in argento 925 placcato oro bianco con zirconi multicolore e chiusura regolabile. Perfetta in ogni occasione o per aggiungere un tocco di stile alla vita di tutti i giorni.",
+    "price": 50000000000000000000
+  },
+  {
+    "id": 4,
+    "name": "Bella V drop earrings",
+    "picture": "https://asset.swarovski.com/images/$size_1450/t_swa103/b_rgb:ffffff,c_scale,dpr_2.0,f_auto,w_900/5662114_png/bella-v-drop-earrings--round-cut--pink--rose-gold-tone-plated-swarovski-5662114.png",
+    "description": "Questi accattivanti orecchini conferiranno al tuo look una nota di colore. Al centro presentano una pietra rotonda rosa incastonata in una placcatura color oro rosa, circondata da una fila di scintillanti cristalli Cry disposti a pavé che ne esaltano l’effetto. Indossali ogni giorno per aggiungere al tuo stile un'incantevole rifinitura.",
+    "price": 80000000000000000000
+  },
+  {
+    "id": 5,
+    "name": "BRACCIALE LA PETITE STORY LOVE ",
+    "picture": "https://cdn.bluespirit.com/i/default/115843/bracciale-la-petite-story-love-lps05asd21_v1n269.jpg",
+    "description": "BRACCIALE LA PETITE STORY LOVE - LPS05ASD21 - Genere: Donna, Misura : Regolabile cm, Colore: Silver, Bluespirit experience: Fashion, Materiale: Cristalli, Placcatura rodio, Peso: 16 gr, Colore pietra: Blu, Certificato di autenticità: Sì, Confezione: Originale La Petite Story, Simbolo: Cuore, Modello: Tennis",
+    "price": 110000000000000000000
+  },
+  {
+    "id": 6,
+    "name": "Orecchini Rodio Cuore dell'Oceano Rubino",
+    "picture": "https://data.amenshop.it/imgprodotto/orecchini-rodio-cuore-delloceano-rubino_4995_big.jpg",
+    "description": "Orecchini in AG925 zircone rubino e zirconi bianchi - Rodio - Ø 0,9 cm - Articolo corredato da shopper, scatola e garanzia",
+    "price": 120000000000000000000
+  },
+  {
+    "id": 7,
+    "name": "Anello Regolabile Con Fiore Margherita ",
+    "picture": "https://www.gnoceitalia.com/media/catalog/product/cache/a95ad56dd2a79ef00be2f8cdc9ab0431/6/2/625e330267990png_3.png",
+    "description": "Questo bellissimo e luminoso anello a fiore di margherita è realizzato in argento sterling 925 placcato oro 18K. Presenta un fiore a margherita al centro mentre le scintillanti pietre CZ rotonde gialle aggiungono più brillantezza al design. Questo anello può essere regolato anche in base alle dimensioni del dito.",
+    "price": 250000000000000000000
+  }
+]
